@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Hey GPT</string>
+    <string name="voice_gpt_not_found">Abilita prima la funzione di chat vocale in ChatGPT</string>
+    <string name="str_tip_install">1. La nostra app si basa sulla funzione app ufficiale di chatGPT. Se non è installata, clicca per installarla.</string>
+    <string name="str_action_install">Apri il tuo ChatGPT</string>
+    <string name="str_install_chatgpt">Installa ChatGPT</string>
+    <string name="str_tip_settings">2. Devi accedere alla tua app ChatGPT, quindi eseguire correttamente la funzione di chat vocale in ChatGPT e infine tornare qui per testare la funzione di chat vocale.</string>
+    <string name="str_test_chatgpt">Test ChatGPT chat vocale</string>
+    <string name="str_tip_assistant">3. La nostra app deve essere impostata come app Assistente predefinita per poter rispondere alle scorciatoie dell\'assistente di sistema e alle parole di attivazione in background.</string>
+    <string name="str_action_toggle_assistant">Attiva/disattiva l\'Assistente predefinito</string>
+    <string name="str_action_set_assistant">Imposta come Assistente predefinito</string>
+    <string name="str_tip_wake_word_self_first">Attivando la seguente funzione di parola di attivazione, puoi dire&#160;</string>
+    <string name="str_tip_wake_word_self_or">&#160;O&#160;</string>
+    <string name="str_tip_wake_word_self_end">&#160;per riattivare ChatGPT.\n\nNota che la funzione wake word verrà eseguita in background per rilevare le parole chiave. Se ti dispiace, non abilitarla. Questa funzione è FACOLTATIVA.</string>
+    <string name="str_action_wake_word">Parla con Wakeup ChatGPT</string>
+    <string name="str_tip_access_key">La nostra app ha il motore di wake word di Picovoice integrato. Se hai bisogno di usare la funzione wake word, vai su \"https://console.picovoice.ai/signup\" per ottenere la tua chiave di accesso GRATUITA, quindi incollala nella casella di input qui sotto.</string>
+    <string name="str_tip_holder">La chiave di accesso picovoice</string>
+    <string name="confirm_key">Conferma chiave</string>
+    <string name="str_key_valid">La chiave di accesso non è valida</string>
+    <string name="self_developed">Auto-sviluppato</string>
+    <string name="picovoice">Picovoce</string>
+    <string name="wake_word_engine">Motore di parole di attivazione:</string>
+    <string name="privacy_policy">politica sulla riservatezza</string>
+</resources>

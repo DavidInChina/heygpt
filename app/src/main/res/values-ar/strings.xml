@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Hey GPT</string>
+    <string name="voice_gpt_not_found">يرجى تمكين وظيفة الدردشة الصوتية في ChatGPT أولاً</string>
+    <string name="str_tip_install">1. يعتمد تطبيقنا على وظيفة التطبيق الرسمي لـ chatGPT. إذا لم يتم تثبيته، فيرجى النقر فوقه لتثبيته.</string>
+    <string name="str_action_install">افتح ChatGPT الخاص بك</string>
+    <string name="str_install_chatgpt">تثبيت ChatGPT</string>
+    <string name="str_tip_settings">2. يتعين عليك تسجيل الدخول إلى تطبيق ChatGPT، ثم تشغيل وظيفة الدردشة الصوتية بنجاح في ChatGPT، وأخيرًا العودة إلى هنا لاختبار وظيفة الدردشة الصوتية.</string>
+    <string name="str_test_chatgpt">اختبار الدردشة الصوتية ChatGPT</string>
+    <string name="str_tip_assistant">3. يجب تعيين تطبيقنا كتطبيق مساعد افتراضي للاستجابة لاختصارات مساعد النظام وكلمات التنبيه في الخلفية.</string>
+    <string name="str_action_toggle_assistant">تبديل المساعد الافتراضي</string>
+    <string name="str_action_set_assistant">تعيين كمساعد افتراضي</string>
+    <string name="str_tip_wake_word_self_first">&#160;عند تشغيل وظيفة كلمة الاستيقاظ التالية، يمكنك قول</string>
+    <string name="str_tip_wake_word_self_or">&#160; أو &#160;</string>
+    <string name="str_tip_wake_word_self_end">إيقاظ ChatGPT.\n\nلاحظ أن وظيفة كلمة الإيقاظ ستعمل في الخلفية لاكتشاف الكلمات الرئيسية. إذا كنت تمانع، فيرجى عدم تمكينها. هذه الوظيفة اختيارية.&#160;</string>
+    <string name="str_action_wake_word">تحدث إلى Wakeup ChatGPT</string>
+    <string name="str_tip_access_key">يحتوي تطبيقنا على محرك كلمات الاستيقاظ المدمج في Picovoice. إذا كنت بحاجة إلى استخدام وظيفة كلمات الاستيقاظ، فيرجى الانتقال إلى "https://console.picovoice.ai/signup" للحصول على مفتاح الوصول المجاني الخاص بك، ثم لصقه في مربع الإدخال أدناه.</string>
+    <string name="str_tip_holder">مفتاح الوصول picovoice</string>
+    <string name="confirm_key">تأكيد المفتاح</string>
+    <string name="str_key_valid">مفتاح الوصول غير صالح</string>
+    <string name="self_developed">تم تطويره ذاتيا</string>
+    <string name="picovoice">بيكوفويتسي</string>
+    <string name="wake_word_engine">محرك كلمات الاستيقاظ:</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+</resources>

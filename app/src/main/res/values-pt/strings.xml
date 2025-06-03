@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Hey GPT</string>
+    <string name="voice_gpt_not_found">Por favor, habilite a função de chat de voz no ChatGPT primeiro</string>
+    <string name="str_tip_install">1. Nosso aplicativo depende da função oficial do aplicativo chatGPT. Se não estiver instalado, clique para instalá-lo.</string>
+    <string name="str_action_install">Abra seu ChatGPT</string>
+    <string name="str_install_chatgpt">Instalar ChatGPT</string>
+    <string name="str_tip_settings">2. Você precisa fazer login no seu aplicativo ChatGPT, executar com sucesso a função de bate-papo por voz no ChatGPT e, finalmente, voltar aqui para testar a função de bate-papo por voz.</string>
+    <string name="str_test_chatgpt">Teste o chat de voz ChatGPT</string>
+    <string name="str_tip_assistant">3. Nosso aplicativo precisa ser definido como o aplicativo Assistente padrão para responder aos atalhos do assistente do sistema e às palavras de ativação em segundo plano.</string>
+    <string name="str_action_toggle_assistant">Alternar Assistente padrão</string>
+    <string name="str_action_set_assistant">Definir como Assistente padrão</string>
+    <string name="str_tip_wake_word_self_first">Ao ativar a seguinte função de palavra de ativação, você pode dizer:&#160;</string>
+    <string name="str_tip_wake_word_self_or">&#160;ou&#160;</string>
+    <string name="str_tip_wake_word_self_end">&#160;para despertar o ChatGPT.\n\nObserve que a função de palavra de ativação será executada em segundo plano para detectar palavras-chave. Se você se importar, não a habilite. Esta função é OPCIONAL.</string>
+    <string name="str_action_wake_word">Fale com Wakeup ChatGPT</string>
+    <string name="str_tip_access_key">Nosso aplicativo tem o mecanismo de palavra de ativação do Picovoice integrado. Se você precisar usar a função de palavra de ativação, acesse \"https://console.picovoice.ai/signup\" para obter sua Chave de Acesso GRATUITA e cole-a na caixa de entrada abaixo.</string>
+    <string name="str_tip_holder">A chave de acesso picovoice</string>
+    <string name="confirm_key">Confirmar Chave</string>
+    <string name="str_key_valid">A chave de acesso não é válida</string>
+    <string name="self_developed">Autodesenvolvido</string>
+    <string name="picovoice">Picovoz</string>
+    <string name="wake_word_engine">Mecanismo de palavra de ativação:</string>
+    <string name="privacy_policy">política de Privacidade</string>
+</resources>

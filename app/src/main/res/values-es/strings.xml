@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Hey GPT</string>
+    <string name="voice_gpt_not_found">Primero habilite la función de chat de voz en ChatGPT</string>
+    <string name="str_tip_install">1. Nuestra aplicación se basa en la función de aplicación oficial de chatGPT. Si no está instalada, haga clic para instalarla.</string>
+    <string name="str_action_install">Abre tu ChatGPT</string>
+    <string name="str_install_chatgpt">Instalar ChatGPT</string>
+    <string name="str_tip_settings">2. Debe iniciar sesión en su aplicación ChatGPT, luego ejecutar con éxito la función de chat de voz en ChatGPT y, finalmente, regresar aquí para probar la función de chat de voz.</string>
+    <string name="str_test_chatgpt">Prueba el chat de voz de ChatGPT</string>
+    <string name="str_tip_assistant">3. Nuestra aplicación debe configurarse como la aplicación Asistente predeterminada para poder responder a los accesos directos del asistente del sistema y a las palabras de activación en segundo plano.</string>
+    <string name="str_action_toggle_assistant">Activar o desactivar el asistente predeterminado</string>
+    <string name="str_action_set_assistant">Establecer como Asistente predeterminado</string>
+    <string name="str_tip_wake_word_self_first">Al activar la siguiente función de palabra de activación, puedes decir&#160;</string>
+    <string name="str_tip_wake_word_self_or">&#160;o&#160;</string>
+    <string name="str_tip_wake_word_self_end">&#160;para activar ChatGPT.\n\nTenga en cuenta que la función de palabra de activación se ejecutará en segundo plano para detectar palabras clave. Si no le importa, no la habilite. Esta función es OPCIONAL.</string>
+    <string name="str_action_wake_word">Hablar con Wakeup ChatGPT</string>
+    <string name="str_tip_access_key">Nuestra aplicación tiene incorporado el motor de palabras de activación de Picovoice. Si necesita utilizar la función de palabras de activación, acceda a "https://console.picovoice.ai/signup" para obtener su clave de acceso GRATUITA y péguela en el cuadro de entrada que aparece a continuación.</string>
+    <string name="str_tip_holder">La clave de acceso de picovoice</string>
+    <string name="confirm_key">Confirmar clave</string>
+    <string name="str_key_valid">La clave de acceso no es válida</string>
+    <string name="self_developed">De desarrollo propio</string>
+    <string name="picovoice">Picovoice</string>
+    <string name="wake_word_engine">Motor de palabras de activación:</string>
+    <string name="privacy_policy">política de privacidad</string>
+</resources>

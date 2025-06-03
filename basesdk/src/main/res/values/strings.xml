@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AirGuard</string>
+    <string name="settings_privacy">Privacy Policy</string>
+    <string name="str_small_support2">Rate US Five Stars?</string>
+    <string name="str_small_support">Are your sure you want to quit?</string>
+    <string name="str_reate">AirGuard</string>
+    <string name="title_share">Share To Best Friends</string>
+    <string name="share_content">Recommend it!Try this wonderful app, you won\'t regret it: </string>
+    <string name="str_gift_title">Gifts-AD</string>
+    <string name="str_sure">YES</string>
+    <string name="str_more_apps">MORE APPS</string>
+    <string name="str_rate_us">RATE US</string>
+</resources>

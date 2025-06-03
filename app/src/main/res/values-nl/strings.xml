@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Hey GPT</string>
+    <string name="voice_gpt_not_found">Please enable the voice chat function in ChatGPT first</string>
+    <string name="str_tip_install">1. Our app relies on the official app function of chatGPT. If it is not installed, please click to install it.</string>
+    <string name="str_action_install">Open your ChatGPT</string>
+    <string name="str_install_chatgpt">Install ChatGPT</string>
+    <string name="str_tip_settings">2. You need to log in to your ChatGPT app, then successfully run the voice chat function in ChatGPT, and finally come back here to test the voice chat function.</string>
+    <string name="str_test_chatgpt">Test ChatGPT voice chat</string>
+    <string name="str_tip_assistant">3. Our app needs to be set as the default Assistant app in order to respond to system assistant shortcuts and wake words in the background.</string>
+    <string name="str_action_toggle_assistant">Toggle default Assistant</string>
+    <string name="str_action_set_assistant">Set as default Assistant</string>
+    <string name="str_tip_wake_word_self_first">Turning on the following wake word function, you can say&#160;</string>
+    <string name="str_tip_wake_word_self_or">&#160;or&#160;</string>
+    <string name="str_tip_wake_word_self_end">&#160;to wake ChatGPT.\n\nNote that the wake word function will run in the background to detect keywords. If you mind, please do not enable it. This function is OPTIONAL.</string>
+    <string name="str_action_wake_word">Speak to Wakeup ChatGPT</string>
+    <string name="str_tip_access_key">Our app has built-in Picovoice\'s wake word engine. If you need to use the wake word function, please go to \"https://console.picovoice.ai/signup\" to get your FREE Access Key, and then paste it into the input box below.</string>
+    <string name="str_tip_holder">The picovoice access key</string>
+    <string name="confirm_key">Confirm Key</string>
+    <string name="str_key_valid">Access Key is not valid</string>
+    <string name="self_developed">Self-developed</string>
+    <string name="picovoice">Picovoice</string>
+    <string name="wake_word_engine">Wake word engine:</string>
+    <string name="privacy_policy">Privacy Policy</string>
+</resources>

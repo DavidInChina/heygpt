@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Hey GPT</string>
+    <string name="voice_gpt_not_found">请先在 ChatGPT 中启用语音聊天功能</string>
+    <string name="str_tip_install">1、本应用依赖chatGPT官方应用功能，若未安装请点击安装。</string>
+    <string name="str_action_install">打开你的 ChatGPT</string>
+    <string name="str_install_chatgpt">安装 ChatGPT</string>
+    <string name="str_tip_settings">2.您需要登录您的ChatGPT应用程序，然后在ChatGPT中成功运行语音聊天功能，最后回到这里测试语音聊天功能。</string>
+    <string name="str_test_chatgpt">测试聊天GPT语音聊天</string>
+    <string name="str_tip_assistant">3. 我们的应用需要设置为默认助手应用，以便在后台响应系统助手快捷方式和唤醒词。</string>
+    <string name="str_action_toggle_assistant">切换默认助手</string>
+    <string name="str_action_set_assistant">设置为默认助手</string>
+    <string name="str_tip_wake_word_self_first">开启以下唤醒词功能，你可以说&#160;</string>
+    <string name="str_tip_wake_word_self_or">&#160;或者&#160;</string>
+    <string name="str_tip_wake_word_self_end">&#160;唤醒 ChatGPT。\n\n请注意，唤醒词功能将在后台运行以检测关键字。如果您介意，请不要启用它。此功能是可选的。</string>
+    <string name="str_action_wake_word">与 Wakeup ChatGPT 对话</string>
+    <string name="str_tip_access_key">我们的应用程序内置了Picovoice的唤醒词引擎。如果您需要使用唤醒词功能，请前往“https://console.picovoice.ai/signup”获取您的免费访问密钥，然后将其粘贴到下面的输入框中。</string>
+    <string name="str_tip_holder">picovoice 访问密钥</string>
+    <string name="confirm_key">確認鍵</string>
+    <string name="str_key_valid">访问密钥无效</string>
+    <string name="self_developed">自主研发</string>
+    <string name="picovoice">微微语音</string>
+    <string name="wake_word_engine">唤醒词引擎：</string>
+    <string name="privacy_policy">隐私政策</string>
+</resources>

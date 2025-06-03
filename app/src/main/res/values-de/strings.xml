@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Hey GPT</string>
+    <string name="voice_gpt_not_found">Bitte aktiviere zuerst die Voice-Chat-Funktion in ChatGPT</string>
+    <string name="str_tip_install">1. Unsere App basiert auf der offiziellen App-Funktion von chatGPT. Wenn sie nicht installiert ist, klicken Sie bitte, um sie zu installieren.</string>
+    <string name="str_action_install">Öffnen Sie Ihr ChatGPT</string>
+    <string name="str_install_chatgpt">Installieren Sie ChatGPT</string>
+    <string name="str_tip_settings">2. Sie müssen sich bei Ihrer ChatGPT-App anmelden, dann die Voice-Chat-Funktion in ChatGPT erfolgreich ausführen und schließlich hierher zurückkehren, um die Voice-Chat-Funktion zu testen.</string>
+    <string name="str_test_chatgpt">Testen Sie den ChatGPT-Voice-Chat</string>
+    <string name="str_tip_assistant">3. Unsere App muss als Standard-Assistenten-App festgelegt werden, um im Hintergrund auf Verknüpfungen und Aktivierungswörter des Systemassistenten reagieren zu können.</string>
+    <string name="str_action_toggle_assistant">Standard-Assistent umschalten</string>
+    <string name="str_action_set_assistant">Als Standardassistent festlegen</string>
+    <string name="str_tip_wake_word_self_first">Wenn Sie die Aktivierungswortfunktion aktivieren, können Sie sagen:&#160;</string>
+    <string name="str_tip_wake_word_self_or">&#160;oder&#160;</string>
+    <string name="str_tip_wake_word_self_end">&#160;um ChatGPT zu wecken.\n\nBeachten Sie, dass die Wake-Word-Funktion im Hintergrund ausgeführt wird, um Schlüsselwörter zu erkennen. Wenn Sie etwas dagegen haben, aktivieren Sie sie bitte nicht. Diese Funktion ist OPTIONAL.</string>
+    <string name="str_action_wake_word">Sprechen Sie mit Wakeup ChatGPT</string>
+    <string name="str_tip_access_key">Unsere App verfügt über eine integrierte Wake-Word-Engine von Picovoice. Wenn Sie die Wake-Word-Funktion verwenden müssen, gehen Sie bitte zu \"https://console.picovoice.ai/signup\", um Ihren KOSTENLOSEN Zugangsschlüssel zu erhalten, und fügen Sie ihn dann in das Eingabefeld unten ein.</string>
+    <string name="str_tip_holder">Der Picovoice-Zugriffsschlüssel</string>
+    <string name="confirm_key">Bestätigungstaste</string>
+    <string name="str_key_valid">Der Zugriffsschlüssel ist ungültig</string>
+    <string name="self_developed">Selbst entwickelt</string>
+    <string name="picovoice">Picovoice</string>
+    <string name="wake_word_engine">Wake-Word-Engine:</string>
+    <string name="privacy_policy">Datenschutzrichtlinie</string>
+</resources>

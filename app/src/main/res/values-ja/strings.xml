@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Hey GPT</string>
+    <string name="voice_gpt_not_found">まずChatGPTで音声チャット機能を有効にしてください</string>
+    <string name="str_tip_install">1. 当アプリはchatGPTの公式アプリ機能に依存しています。インストールされていない場合はクリックしてインストールしてください。</string>
+    <string name="str_action_install">ChatGPTを開く</string>
+    <string name="str_install_chatgpt">ChatGPTをインストールする</string>
+    <string name="str_tip_settings">2. ChatGPT アプリにログインし、ChatGPT で音声チャット機能を正常に実行し、最後にここに戻って音声チャット機能をテストする必要があります。</string>
+    <string name="str_test_chatgpt">テストチャットGPT音声チャット</string>
+    <string name="str_tip_assistant">3. バックグラウンドでシステム アシスタントのショートカットやウェイクワードに応答するには、アプリをデフォルトのアシスタント アプリとして設定する必要があります。</string>
+    <string name="str_action_toggle_assistant">デフォルトのアシスタントを切り替える</string>
+    <string name="str_action_set_assistant">デフォルトのアシスタントとして設定</string>
+    <string name="str_tip_wake_word_self_first">次のウェイクワード機能をオンにすると、次のように言うことができます。&#160;</string>
+    <string name="str_tip_wake_word_self_or">&#160;または&#160;</string>
+    <string name="str_tip_wake_word_self_end">&#160;ChatGPTを起動します。\n\nウェイクワード機能はキーワードを検出するためにバックグラウンドで実行されることに注意してください。気に入らない場合は有効にしないでください。この機能はオプションです。</string>
+    <string name="str_action_wake_word">ウェイクアップチャットGPTに話しかける</string>
+    <string name="str_tip_access_key">当アプリにはPicovoiceのウェイクワードエンジンが組み込まれています。ウェイクワード機能を使用する必要がある場合は、「https://console.picovoice.ai/signup」にアクセスして無料のアクセスキーを取得し、下の入力ボックスに貼り付けてください。</string>
+    <string name="str_tip_holder">picovoiceアクセスキー</string>
+    <string name="confirm_key">キーの確認</string>
+    <string name="str_key_valid">アクセスキーが無効です</string>
+    <string name="self_developed">自社開発</string>
+    <string name="picovoice">ピコボイス</string>
+    <string name="wake_word_engine">ウェイクワードエンジン:</string>
+    <string name="privacy_policy">プライバシーポリシー</string>
+</resources>
